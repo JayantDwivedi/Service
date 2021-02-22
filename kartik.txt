@@ -1,2 +1,6 @@
 All set
+<<<<<<< HEAD
 This is main changes
+=======
+i am in test branch
+>>>>>>> test
